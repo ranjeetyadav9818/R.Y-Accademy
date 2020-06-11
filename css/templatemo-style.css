@@ -387,11 +387,16 @@ https://templatemo.com/tm-516-known
   }
 
   .home-slider .item-second {
+
     background-image: url('https://i0.wp.com/www.emerson.ac.tz/wp-content/uploads/2020/04/OnlineLearningTips.jpg?w=891&ssl=1');
+    background-position: center;
+
   }
 
   .home-slider .item-third {
-    background-image: url('https://images.yourstory.com/cs/2/5739db30-22e7-11e9-9aaa-0334d2a19842/ed-tech1553237040995.png');
+    background-image: url('https://www-cdn.docebo.com/wp-content/uploads/2016/10/BP-_-Top-10-Challenges-E-Learning-Professionals-Face.jpg?x81131');
+    background-position: center;
+
   }
 
 
